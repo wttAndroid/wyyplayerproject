@@ -1,19 +1,30 @@
-# wyyplayerproject
+# 毕业设计音乐播放器
 
-## Project setup
+## 直接运行看效果
 ```
-npm install
+以服务器方式运行dist文件下的index.html
 ```
+### 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
+## 查看/修改项目具体实现代码
 ```
-npm run build
+npm install(下载相关依赖Project setup)
 ```
+npm run serve(运行查看Compiles and hot-reloads for development)
+```
+npm run build(打包Compiles and minifies for production)
+```
+### 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+
+## 毕业论文以及毕业答辩ppt在项目dist/article文件下
+
+```
+![毕业论文的位置](https://images.gitee.com/uploads/images/2021/0819/190505_5f8f48fa_5641265.png "微信截图_20210819190436.png")
+```
+### 
+
