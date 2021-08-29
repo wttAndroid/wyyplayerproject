@@ -28,7 +28,7 @@ npm run build(打包Compiles and minifies for production)
 ## 毕业论文以及毕业答辩ppt在项目dist/article文件下
 
 ```
-![dist/article](https://images.gitee.com/uploads/images/2021/0819/190842_5695a17f_5641265.png "微信截图_20210819190436.png")
+![dist/article](https://images.gitee.com/uploads/images/2021/0829/170801_2646f78e_5641265.png "music7.png")
 ```
 ### 
 
