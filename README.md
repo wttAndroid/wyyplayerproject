@@ -4,6 +4,10 @@
 ```
 以服务器方式运行dist文件下的index.html
 ```
+
+#### 查看运行效果
+[演示地址](http://123.56.144.92/music/index.html)
+
 ![发现音乐](https://images.gitee.com/uploads/images/2021/0829/170600_c3cb6d85_5641265.png "music5.png")
 ![推荐歌单](https://images.gitee.com/uploads/images/2021/0829/170543_0ef5fdb2_5641265.png "music3.png")
 ![最新音乐](https://images.gitee.com/uploads/images/2021/0829/170519_2571960f_5641265.png "music2.png")
