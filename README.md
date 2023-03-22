@@ -27,12 +27,6 @@ npm run build(打包Compiles and minifies for production)
 
 
 
+#### 联系我：远程调试/二次开发/毕设
 
-
-## 毕业论文以及毕业答辩ppt在项目dist/article文件下
-
-```
-![dist/article](https://images.gitee.com/uploads/images/2021/0829/170801_2646f78e_5641265.png "music7.png")
-```
-### 
-
+![远程调试/二次开发/毕设](https://gitee.com/wttAndroid/online-learning-platform/raw/master/public/static/weixin.jpg)
