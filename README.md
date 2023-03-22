@@ -26,6 +26,10 @@ npm run build(打包Compiles and minifies for production)
 ### 
 
 
+####  毕业论文在dist/article文件下
+
+dist/article/毕业论文.docx
+
 
 #### 联系我：远程调试/二次开发/毕设
 
