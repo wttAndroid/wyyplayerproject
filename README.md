@@ -6,7 +6,7 @@
 ```
 
 #### 查看运行效果
-[演示地址](http://123.56.144.92/domos/music/index.htm)
+[演示地址](http://123.56.144.92/domos/music/index.html)
 
 ![发现音乐](https://images.gitee.com/uploads/images/2021/0829/170600_c3cb6d85_5641265.png "music5.png")
 ![推荐歌单](https://images.gitee.com/uploads/images/2021/0829/170543_0ef5fdb2_5641265.png "music3.png")
